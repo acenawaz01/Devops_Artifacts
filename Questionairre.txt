@@ -1,0 +1,79 @@
+CI/CD
+What do you understand by CICD?
+What does the CICD pipeline in your project looks like?
+Tell me which tools you will use to configure your cicd pipeline? Why?
+
+Git
+What is distributed version control?
+Difference b/w SVN and Git?
+Difference between git push, pull and fetch?
+What is a local and remote repo in git?
+How do you resolve a merge conflict?
+
+Github
+What is the branching strategy you follow in your company?
+What is the peer review process you use?
+What are tags and branches?
+Have you ever used git rebase? when?
+
+Maven
+Why do we need maven?
+How do you configure maven? 
+What is settings.xml?
+Migrated my project from Nexus2 to Nexus3 but after that maven is not able to retrieve dependencies?
+How can we clear maven cache?
+What is the maven lifecycle?
+Have you ever use maven release plugin? How do you use it?
+
+Jenkins
+How do you take Jenkins backup?
+What is RBAC in Jenkins? 
+What is the difference between pipeline, multibranch pipeline and freestyle jobs?
+How do you configure a node against your Jenkins instance?
+How do you configure java in jenkins?
+Can I deploy to EC2 using jenkins ? How?
+I am unable to checkout my github repo? how will i troubleshoot?
+
+Nexus
+What are different types of repositories in nexus?
+How do you deploy any artifact to nexus using maven?
+What is GAVC in pom.xml?
+What is pom and superpom? Can I compile a project without pom? How? 
+
+Ansible
+How does ansible connects to target servers?
+Why do we need ansible? What are roles in ansible? 
+Which modules have you used in ansible?
+Explain any technical challenge you encountered while using ansible and how did you resolve it?
+How will you use ansible to deploy to EC2?
+
+Docker
+What do you understand by containerization?
+What is the difference between entrypoint and cmd?
+Have you written a dockerfile ? Explain?
+How do you troubleshoot a container ? 
+I am running a container on my machine and it is a tomcat container? i want to access it from my machine but I am not able to access it from browser? How will I fix it?
+
+EC2
+What are auto scaling groups in EC2?
+Application is running on an EC2 instance on port 8081 but it is unable to access it from host browser? How will you fix this issue?
+How do you monitor the state of your cloud infrastructure?
+
+S3
+What is the difference between S3, EBS and EFS?
+How much is the capacity of S3 bucket and how can you increase it?
+Can I host S3 across different availability zones? Why and how?
+how can I access S3 bucket from EC2 server?
+How many buckets can I create in S3?
+What is an availability zone in aws? Can I run an application in multiple AZ? how?
+
+IAM
+What are roles in IAM? 
+How do I create and attach policy to role?
+
+Terraform/Cloudformation
+What is the difference between the two?
+Which one do you prefer and why?
+What is a state file in terraform? Where do you store it?
+What will happen if I delete the state file mistakenly?
+Which modules have you used in terraform? Give example?
